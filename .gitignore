@@ -38,3 +38,4 @@ tests/**/local/
 
 # Website build output
 /web/dist
+verification-evidence/
